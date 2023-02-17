@@ -1,0 +1,16 @@
+{
+  "name": "dtorns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dtorns.js",
+  "scripts": {
+    "start": "node dtorns.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lemm",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "ws": "^7.3.1"
+  }
+}
